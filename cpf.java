@@ -9,7 +9,7 @@ public class CPF {
     public static void main(String args[]) {  
         long tempoInicio = System.currentTimeMillis();
          int[] vcpf = new int[11];
-         long cpf=42036572890L;
+         long cpf=42036572890L; //CPF que deseja validar.
          long num=10000000000L;
          long resto;    
          int j;   
